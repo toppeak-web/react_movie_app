@@ -2,7 +2,7 @@
 https://toppeak-web.github.io/react_movie_app/#/
 # About
 
-https://yts.mx/ 에 json으로 정리된 api테이터와 재사용성이 좋은 리액트로 만든 리액트 부비 앱입니다.
+https://yts.mx/ 에 json으로 정리된 20개의 영화 테이터를 가져오는 리액트 부비 앱입니다.
 <img src="https://user-images.githubusercontent.com/60978437/93746554-4ab18880-fc30-11ea-84bc-998381300f7f.png">
 
 사용한 json-viewer
